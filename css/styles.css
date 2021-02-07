@@ -1,0 +1,89 @@
+.logo-web {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  color: var(--blue-text);
+  font-size: 26px;
+}
+.logo-studio {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  color: var(--black-dark-text);
+  font-size: 26px;
+}
+.nav-studio:hover {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--blue-text);
+}
+.nav-studio:focus {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--black-text);
+}
+.nav-portfolio {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--black-text);
+}
+.nav-portfolio:hover {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--blue-text);
+}
+.nav-contacts {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--black-text);
+}
+.nav-contacts:hover {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--blue-text);
+}
+.nav-mail {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--black-text);
+}
+.nav-mail:hover {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--blue-text);
+}
+.nav-tel {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--black-text);
+}
+.nav-tel:hover {
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--blue-text);
+}
+.hero {
+  background-color: var(--dark-grey-bac);
+}
+.hero-text {
+  font-family: "roboto";
+  font-size: 60px;
+  font-weight: 900;
+  color: var(--white-text);
+}
+.button-zakaz {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  color: var(--blue-text);
+}
