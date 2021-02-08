@@ -78,12 +78,15 @@ a {
   width: 200px;
   height: 50px;
 }
-.button-bac :hover {
+.button-bac:hover {
   background-color: var(--white-text);
   width: 200px;
   height: 50px;
 }
 .button-zakaz {
+  font-family: "roboto";
+  font-weight: 700;
+  font-size: 16px;
   color: var(--white-text);
   letter-spacing: 0.06em;
 }
@@ -162,4 +165,41 @@ a {
 }
 .address {
   font-style: normal;
+}
+
+/* Portfolio */
+
+.portfol-button {
+  background-color: var(--white-text);
+}
+.portfol-button:hover {
+  background-color: var(--blue-text);
+}
+.text-button {
+  color: var(--blue-text);
+  font-family: "roboto";
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+}
+.text-button:hover {
+  color: var(--white-text);
+  font-family: "roboto";
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+}
+.project-name {
+  font-family: "roboto";
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--black-text);
+}
+.signature {
+  font-family: "roboto";
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: var(--grey-text);
 }
