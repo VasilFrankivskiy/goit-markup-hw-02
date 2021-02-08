@@ -14,6 +14,7 @@ a {
   color: var(--blue-text);
   font-size: 26px;
   letter-spacing: 0.03em;
+  line-height: 1.15;
 }
 .logo-studio {
   font-family: "Raleway";
@@ -22,6 +23,7 @@ a {
   color: var(--black-dark-text);
   font-size: 26px;
   letter-spacing: 0.03em;
+  line-height: 1.15;
 }
 .logo-studio-white {
   font-family: "Raleway";
@@ -89,6 +91,7 @@ a {
   font-size: 16px;
   color: var(--white-text);
   letter-spacing: 0.06em;
+  line-height: 1.87;
 }
 .button-zakaz:hover {
   width: 200px;
@@ -107,6 +110,7 @@ a {
   color: var(--black-text);
   text-transform: uppercase;
   letter-spacing: 0.03em;
+  line-height: 1.14;
 }
 .approach-text {
   font-family: "roboto";
@@ -114,6 +118,7 @@ a {
   font-weight: 400;
   color: var(--grey-text);
   letter-spacing: 0.03em;
+  line-height: 1.71;
 }
 .what-we-do {
   font-family: "roboto";
@@ -121,6 +126,7 @@ a {
   font-weight: 700;
   color: var(--black-text);
   letter-spacing: 0.03em;
+  line-height: 1.16;
 }
 .team {
   font-family: "roboto";
@@ -128,6 +134,7 @@ a {
   font-weight: 700;
   color: var(--black-text);
   letter-spacing: 0.03em;
+  line-height: 1.16;
 }
 .team-name {
   font-family: "roboto";
@@ -135,6 +142,7 @@ a {
   font-weight: 500;
   color: var(--black-dark-textt);
   letter-spacing: 0.03em;
+  line-height: 1.18;
 }
 .team-text {
   font-family: "roboto";
@@ -142,6 +150,7 @@ a {
   font-weight: 400;
   color: var(--grey-text);
   letter-spacing: 0.03em;
+  line-height: 1.18;
 }
 .footer-bac {
   background-color: var(--dark-grey-bac);
@@ -155,6 +164,7 @@ a {
   color: var(--white-text);
   line-height: 1.71;
   letter-spacing: 0.03em;
+  line-height: 1.71;
 }
 .footer-address {
   font-family: "roboto";
@@ -162,6 +172,7 @@ a {
   font-weight: 400;
   color: var(--grey-text-op60);
   letter-spacing: 0.03em;
+  line-height: 1.71;
 }
 .address {
   font-style: normal;
@@ -181,6 +192,7 @@ a {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.03em;
+  line-height: 1.62;
 }
 .text-button:hover {
   color: var(--white-text);
@@ -188,6 +200,7 @@ a {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.03em;
+  line-height: 1.62;
 }
 .project-name {
   font-family: "roboto";
@@ -195,6 +208,7 @@ a {
   font-weight: 700;
   letter-spacing: 0.06em;
   color: var(--black-text);
+  line-height: 2;
 }
 .signature {
   font-family: "roboto";
@@ -202,4 +216,5 @@ a {
   font-weight: 400;
   letter-spacing: 0.03em;
   color: var(--grey-text);
+  line-height: 1.87;
 }
