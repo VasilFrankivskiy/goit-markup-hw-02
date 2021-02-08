@@ -84,6 +84,7 @@ a {
   background-color: var(--white-text);
   width: 200px;
   height: 50px;
+  border: 0;
 }
 .button-zakaz {
   font-family: "roboto";
@@ -182,9 +183,11 @@ a {
 
 .portfol-button {
   background-color: var(--white-text);
+  border: 0;
 }
 .portfol-button:hover {
   background-color: var(--blue-text);
+  border: 0;
 }
 .text-button {
   color: var(--blue-text);
