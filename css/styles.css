@@ -1,6 +1,12 @@
 a {
   text-decoration: none;
 }
+.header {
+  background-color: var(--white-text);
+  width: 1600px;
+  height: 80px;
+  display: flex;
+}
 .logo-web {
   font-family: "Raleway";
   font-style: normal;
@@ -67,9 +73,17 @@ a {
   line-height: 1.36;
   letter-spacing: 0.06em;
 }
-.button-zakaz {
+.button-bac {
+  background-color: var(--blue-text);
   width: 200px;
   height: 50px;
+}
+.button-bac :hover {
+  background-color: var(--white-text);
+  width: 200px;
+  height: 50px;
+}
+.button-zakaz {
   color: var(--white-text);
   letter-spacing: 0.06em;
 }
